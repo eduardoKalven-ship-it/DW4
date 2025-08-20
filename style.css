@@ -1,0 +1,54 @@
+.box1{
+
+    background-color: cornflowerblue;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-left: 15px;
+
+}
+#edu{
+
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 300px;
+   border-top-left-radius: 9px; 
+   border-top-right-radius: 9px;
+   border-bottom-left-radius: 9px;
+   border-bottom-right-radius: 9px;
+
+   font-size: 25px;
+
+  
+
+
+
+
+
+}
+#escrita{
+
+
+    background-color: rgb(91, 124, 30);
+    height: 30px;
+    width: 300px;
+
+   display: flex;
+   font-size: 25px;
+  
+
+}
+#escrita1{
+
+
+    background-color: rgb(91, 124, 30);
+    height: 30px;
+    width: 300px;
+
+   display: flex;
+   font-size: 25px;
+  
+
+}
